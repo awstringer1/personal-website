@@ -16,14 +16,15 @@ role: PhD Candidate
 organizations:
 - name: Department of Statistical Sciences, University of Toronto
   url: "statistics.utoronto.ca"
+- name: Centre for Global Health Research, St. Michael's Hospital
 
 # Short bio (displayed in user profile at end of posts)
-bio: I do methodology and computing for giant hierarchical regression models. I had to google how to spell 'hierarchical' to write this though.
+bio: PhD Candidate in statistics at the University of Toronto and Research Coordinator II, Centre for Global Health Research, St. Michael's Hospital
 
 interests:
-- Curve Smoothing
-- Spatial Statistics
-- Computational Bayesian Inference
+- Statistical methodology
+- Global mortality research
+- Teaching
 
 education:
   courses:
@@ -68,8 +69,8 @@ email: ""
 user_groups: []
 ---
 
-I am a PhD candidate in Statistics at the University of Toronto supervised by Patrick Brown and Jamie Stafford. I am developing methodology and computational tools for fitting a very general class of regression models to large, modern datasets. With a single framework we can fit models with linear and smooth terms, random effects, temporally and/or spatially correlated effects, and more, using deterministic approximations (no MCMC!) that scale well with dimension. I'm extending the framework to be able to handle matched case-control, aggregated spatio-temporal, and other types of complicated data seen in practice.
+I am a PhD candidate in Statistics at the University of Toronto supervised by Patrick Brown and Jamie Stafford. I develop methodology that has applications in global mortality research and disease mapping, and I also work at the Centre for Global Health Research at St. Michael's Hospital in Toronto. Before my doctoral studies I worked a couple of finance jobs where I got comfortable working with massive datasets, enabling me to do my current research at scale.
 
-Outside of school I enjoy playing rock and roll and country and western music. My band, the Alex Stringer Band, plays a regular monthly gig at Grossmans Tavern in Toronto. We have been described by NOW! magazine as "playing tonight at 7 o'clock". Come check us out!
+Outside of school I enjoy playing rock and roll and country and western music. My band, the Alex Stringer Band, plays a regular monthly gig at Grossmans Tavern in Toronto. We have been described by NOW! magazine as "playing tonight at 7 o'clock".
 
 
