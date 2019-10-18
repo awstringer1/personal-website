@@ -52,9 +52,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/awstringer1
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,7 +69,7 @@ email: ""
 user_groups: []
 ---
 
-I am a PhD candidate in Statistics at the University of Toronto supervised by Patrick Brown and Jamie Stafford. I develop methodology that has applications in global mortality research and disease mapping, and I also work at the Centre for Global Health Research at St. Michael's Hospital in Toronto. Before my doctoral studies I worked a couple of finance jobs where I got comfortable working with massive datasets, enabling me to do my current research at scale.
+I am a PhD candidate in Statistics at the University of Toronto supervised by Patrick Brown and Jamie Stafford. I develop methodology that has applications in global mortality research and disease mapping, and I also work at the Centre for Global Health Research at St. Michael's Hospital in Toronto. I'm also currently president of the Statistics Graduate Student Association, which represents statistics grad students to the department and university-wide student union. Before my doctoral studies I worked a couple of finance jobs where I got comfortable working with massive datasets, enabling me to do my current research at scale.
 
 Outside of school I enjoy playing rock and roll and country and western music. My band, the Alex Stringer Band, plays a regular monthly gig at Grossmans Tavern in Toronto. We have been described by NOW! magazine as "playing tonight at 7 o'clock".
 
